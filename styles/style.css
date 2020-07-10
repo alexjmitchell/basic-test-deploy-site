@@ -1,0 +1,9 @@
+.center-img {
+  cursor: pointer;
+  transition: ease-in-out;
+}
+
+.center-img:hover {
+  opacity: 70%;
+  transition: ease-in-out;
+}
