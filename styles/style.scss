@@ -1,0 +1,11 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.center-img {
+  cursor: pointer;
+  transition: ease-in-out;
+
+  &:hover {
+    opacity: 70%;
+    transition: ease-in-out;
+  }
+}

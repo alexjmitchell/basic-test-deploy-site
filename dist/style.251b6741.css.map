@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.251b6741.css","sourceRoot":"..","sourcesContent":[".center-img {\n  cursor: pointer;\n  transition: ease-in-out;\n}\n\n.center-img:hover {\n  opacity: 70%;\n  transition: ease-in-out;\n}\n"]}

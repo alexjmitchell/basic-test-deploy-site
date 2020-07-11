@@ -1,3 +1,4 @@
+import "bootstrap/dist/js/bootstrap";
 const centerImageElement = document.querySelector(".center-img");
 
 centerImageElement.addEventListener("click", (event) => {
